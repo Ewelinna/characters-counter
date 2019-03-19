@@ -1,0 +1,14 @@
+{
+  "name": "characters-counter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+   "test": "jasmine --config=./jasmine.json" 
+  },
+  "author": "Ewelina Skwierawska",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^3.3.1"
+  }
+}
